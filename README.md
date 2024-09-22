@@ -1,5 +1,5 @@
 # HigurashiParcheEspañol
-Traducción al español para Onikakushi por **Universo When They Cry** & **LambdaDeltaGames**
+Traducción al español para Onikakushi y Watanagashi por **Universo When They Cry** & **LambdaDeltaGames**
 
 ## Descargas de Parches
 
