@@ -40,6 +40,10 @@ El ".zip" es para instalación manual y el ".exe" es el autoinstalador.
 
 ## ❓ Soporte
 
-Si tienes alguna pregunta o problema, abre un **issue** en el repositorio o contáctanos.
+Si tienes alguna pregunta o problema, abre un **issue** en el repositorio o contáctanos en discord.
+
+Enlace a discord: discord.gg/XP4SEeVYFs
+
+
 
 
