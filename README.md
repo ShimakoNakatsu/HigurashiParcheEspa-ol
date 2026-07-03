@@ -18,7 +18,7 @@ El ".zip" es para instalación manual y el ".exe" es el autoinstalador.
 ---
 
 ###  Capítulo 2: Watanagashi
-- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Watanagashi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/WatanagashiParcheEspanol1.0.zip)
+- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Watanagashi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/HiguWataEspa%C3%B1ol/WatanagashiParcheEspanol1.0.zip)
 - [![Descargar Instalador.exe](https://img.shields.io/badge/Descargar-Instalador.exe-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/Instalador.Universo.When.They.Cry.exe)
 
 **Guía de instalación en Steam:**
@@ -27,7 +27,7 @@ El ".zip" es para instalación manual y el ".exe" es el autoinstalador.
 ---
 
 ###  Capítulo 3: Tatarigoroshi
-- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Tatarigoroshi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/himatsubushi/Himatsubushi_Parche.zip)
+- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Tatarigoroshi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/TatarigoroshiParche.zip)
 - [![Descargar Instalador.exe](https://img.shields.io/badge/Descargar-Instalador.exe-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/Instalador.Universo.When.They.Cry.exe)
 
 ---
