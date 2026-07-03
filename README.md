@@ -9,7 +9,7 @@ El ".zip" es para instalación manual y el ".exe" es el autoinstalador.
 ---
 
 ###  Capítulo 1: Onikakushi
-- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Onikakushi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/HigurashiEp01_Data.zip)
+- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Onikakushi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/HiguOniEspa%C3%83%C2%B1ol/HigurashiEp01_Data.zip)
 - [![Descargar Instalador.exe](https://img.shields.io/badge/Descargar-Instalador.exe-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/Instalador.Universo.When.They.Cry.exe)
 
 **Guía de instalación en Steam:**
