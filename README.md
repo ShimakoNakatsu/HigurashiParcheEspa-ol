@@ -33,7 +33,7 @@ El ".zip" es para instalación manual y el ".exe" es el autoinstalador.
 ---
 
 ###  Capítulo 4: Himatsubushi
-- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Himatsubushi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/TatarigoroshiParche.zip)
+- [![Descargar Data.zip](https://img.shields.io/badge/Descargar-Himatsubushi_Data.zip-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/himatsubushi/Himatsubushi_Parche.zip)
 - [![Descargar Instalador.exe](https://img.shields.io/badge/Descargar-Instalador.exe-blue?style=for-the-badge)](https://github.com/ShimakoNakatsu/HigurashiParcheEspa-ol/releases/download/higurashi/Instalador.Universo.When.They.Cry.exe)
 
 ---
